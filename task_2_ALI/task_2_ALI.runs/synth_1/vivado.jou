@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1.2 (64-bit)
+# SW Build 2615518 on Fri Aug  9 15:55:25 MDT 2019
+# IP Build 2614745 on Fri Aug  9 20:55:02 MDT 2019
+# Start of session at: Mon Oct 21 17:06:11 2019
+# Process ID: 14428
+# Current directory: C:/Users/Ali/Documents/cmpe_125_lab_6/task_2_ALI/task_2_ALI.runs/synth_1
+# Command line: vivado.exe -log fifo_fpga.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source fifo_fpga.tcl
+# Log file: C:/Users/Ali/Documents/cmpe_125_lab_6/task_2_ALI/task_2_ALI.runs/synth_1/fifo_fpga.vds
+# Journal file: C:/Users/Ali/Documents/cmpe_125_lab_6/task_2_ALI/task_2_ALI.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source fifo_fpga.tcl -notrace
